@@ -7,7 +7,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Panacea.Modules.VlcBinaries_2_2_6
+namespace Panacea.Modules.VlcBinaries_2_1_2
 {
     public class VlcBinaries_2_2_6_Plugin : IVlcBinariesPlugin
     {
