@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Panacea.Modules.VlcBinaries_2_1_2
 {
-    public class VlcBinaries_2_2_6_Plugin : IVlcBinariesPlugin
+    public class VlcBinaries_2_1_2_Plugin : IVlcBinariesPlugin
     {
         public Task BeginInit()
         {
